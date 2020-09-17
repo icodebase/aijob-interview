@@ -165,15 +165,17 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 1. 强关联：直接找已经毕业的师兄师姐或朋友内推（缺点是身边朋友去的企业有限，很多人是第一批从事算法岗的，可能都没有师兄师姐搞这个）
 2. 常规操作：上牛客网论坛看企业人员发内推帖子、关注一些招聘公众号（这里我就不推荐，因为很多公众号都很有套路，内推一个企业，还要转发文章到其它群里，然后截图给他们，可是对于大多数人，为了内推，只能这么干）
-3. 内推。感兴趣的可以关注一下这个求职群[「AI项目实战」](https://t.zsxq.com/VrJmEeu)
+3. 内推。感兴趣的可以关注一下。
+
+| 公众号 | 微信号 |
+| ------ | --------- |
+| <img src="http://www.icodebase.cn/static/blog/img/dingyuehao.jpg" height="258px" width="258px" title="公众号" style="display:inherit;"/> | <img src="http://www.icodebase.cn/static/blog/img/aiqianji.jpg" height="258px" width="258px" title="微信号" style="display:inherit;"/> |
 
 <a name="Resume"></a>
 
 ## 5 简历模板
 
-提供了一份简历模板，详见：[AI 算法岗简历模板](http://git.icodebase.cn/frankiegu/aijob-resume)
-
-预览地址：https://icodebase.github.io/aijob-resume/
+提供了一份简历模板，详见：[AI 算法岗简历模板](http://www.aiqianji.com/openoker/aijob-resume)
 
 <a name="Company"></a>
 
@@ -215,9 +217,6 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 130个问答请戳—> [Q&A](Q&A.md)
 
-交流群
-- 微信讨论群（请备注：aijob-interview）
-
-![](imgs/aijob-interview.jpg)
+* 喜欢本项目请先打一颗星
 
 **[@ Amusi](https://github.com/amusi/AI-Job-Notes). Thx**
